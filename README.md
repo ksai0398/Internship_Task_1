@@ -1,2 +1,2 @@
-# Internship_Task_1
+# Web Development_Task_1
 LANDING PAGE
